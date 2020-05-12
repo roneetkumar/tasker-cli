@@ -31,6 +31,7 @@ func Init(dbPath string) error {
 	})
 }
 
+//CreateTask func
 func CreateTask(task string) (int, error) {
 
 	var id int
