@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/roneetkumar/tasker-cli/cmd"
+	"github.com/roneetkumar/tasker/cmd"
 )
 
 func main() {
